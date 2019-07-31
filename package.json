@@ -1,0 +1,28 @@
+{
+  "name": "awsgraphqlrepo",
+  "version": "1.0.0",
+  "description": "awsgraphqlrepo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cloudblab/awsgraphqlrepo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cloudblab/awsgraphqlrepo/issues"
+  },
+  "homepage": "https://github.com/cloudblab/awsgraphqlrepo#readme",
+  "dependencies": {
+    "aws-serverless-express": "^3.3.6",
+    "axios": "^0.19.0",
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "express-graphql": "^0.9.0",
+    "graphql": "^14.4.2"
+  }
+}
